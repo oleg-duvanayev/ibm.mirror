@@ -6,3 +6,9 @@
 ~> git spring-boot:run
 2. point the browser to
 http:localhost:8080/greeting
+
+
+#
+# you can request the service from CLI as well:
+#
+~> curl -X GET http://localhost:8080/?name=Oleg | python -m json.tool
