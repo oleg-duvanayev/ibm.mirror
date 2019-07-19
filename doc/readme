@@ -1,5 +1,7 @@
 #
 # https://spring.io/guides/gs/rest-service/
+# 
+# my clone of project is in https://github.com/oleg-duvanayev/spring.boot.rest.github.git
 #
 
 1. start the application with:
